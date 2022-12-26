@@ -72,6 +72,13 @@ const signupPageStyle = {
     marginBottom: "0px",
     textAlign: "center"
   },
+  subtitleTitleLogin: {
+    marginTop: "30px",
+    marginBottom: "0px",
+    textAlign: "center",
+    paddingLeft: "15px",
+    paddingRight: "15px"
+  },
   cardFooter: {
     paddingTop: "0rem",
     border: "0",
